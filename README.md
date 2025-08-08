@@ -18,7 +18,7 @@ These tasks emphasize:
 Clone this project using:
 
 ```bash
-git clone https://github.com/Cohort-III-web2-Beginners/python-hands-on-5/
+git clone https://github.com/Cohort-III-web2-Beginners/python-hands-on-5.git
 ```
 
 Then:
